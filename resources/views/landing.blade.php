@@ -35,9 +35,9 @@
     <div class="container">
         <h2 class="text-center mb-4">Почему выбирают мастерскую</h2>
         <ul class="list-unstyled text-center">
-            <li>✓ Понятная смета</li>
-            <li>✓ Фото работ до/после</li>
-            <li>✓ Согласование до начала ремонта</li>
+            <li>Понятная смета</li>
+            <li>Фото работ до/после</li>
+            <li>Согласование до начала ремонта</li>
         </ul>
     </div>
 </section>
